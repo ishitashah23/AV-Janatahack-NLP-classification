@@ -36,4 +36,14 @@ Test reviews are further divided into Public (40%) and Private (60%)
 Please ensure that your final submission includes the following:
 1. Solution file containing the predicted 1/0 for each of the 6 topics for every research article in the test set
 2. Code file for reproducing the submission, note that it is mandatory to submit your code for a valid final submission
+
+## Final Results
+
+Public leaderboard score - 0.8425905598 (Rank 24); <br/>
+Private leaderboard score - 0.8385170078 (Rank 47)
+
+## Winning Results
+Public leaderboard score -  0.8651449994; <br/>
+Private leaderboard score - 0.8614475202 
+
  
